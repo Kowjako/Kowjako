@@ -1,10 +1,10 @@
 ### Hi there, I'm Wlodzimierz Kowjako @maybedot👋
 
 
-- 🏫 I’m currently studying on: Wrocław University of Science and Technology
-- 🌱 I’m currently learning : Technical informatics
+- 🏫 I’m currently studying on: **Wrocław University of Science and Technology**
+- 🌱 I’m currently learning : **Technical informatics**
 - 📫 How to reach me: [Instagram](https://www.instagram.com/wlodzimierzyk/), [Telegram](https://t.me/maybedot)
-- 🏀 Fun fact: I mad about basketball
+- 🏀 Fun fact: **I mad about basketball**
 
 ### My statistics : <br/>
 
