@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently studying on: Wrocław University of Science and Technology
 - 🌱 I’m currently learning : Technical informatics
-- 📫 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wlodzimierzyk/)](https://www.instagram.com/wlodzimierzyk/)
+- 📫 How to reach me: [!Instagram](https://www.instagram.com/wlodzimierzyk/)
 - 🏀 Fun fact: I mad about basketball
 
 ### My statistics : <br/>
