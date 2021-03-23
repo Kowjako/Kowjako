@@ -8,7 +8,7 @@
 
 ### My statistics : <br/>
 
-![dasith github stats](https://github-readme-stats.vercel.app/api?username=Kowjako&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kowjako&show_icons=true&title_color=e00021&bg_color=DEG,ffffff,6699ff)
 
 
 ### Skills : <br/>
