@@ -14,4 +14,4 @@
 ### Skills : <br/>
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
