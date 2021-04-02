@@ -8,7 +8,7 @@
 
 ### My statistics : <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kowjako&show_icons=true&title_color=e00021&bg_color=DEG,6699ff,ffffff)
+![Metrics](https://metrics.lecoq.io/Kowjako?template=classic&config.timezone=Europe%2FAmsterdam&config.animated=true)
 
 
 ### Skills : <br/>
