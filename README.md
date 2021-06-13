@@ -8,7 +8,7 @@
 
 ### My statistics : <br/>
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=kowjako&show_icons=true&theme=radical)
+![Metrics](https://github-readme-stats.vercel.app/api?username=kowjako&show_icons=true&bg_color=20,9F329F,FFFFF5&title_color=000000&icon_color=005400)
 
 
 ### Skills : <br/>
