@@ -8,7 +8,7 @@
 
 ### My statistics : <br/>
 
-![Metrics](https://metrics.lecoq.io/Kowjako?template=classic&config.timezone=Europe%2FAmsterdam&config.animated=true)
+![Metrics](https://github-readme-stats.vercel.app/api?username=kowjako&show_icons=true&theme=radical)
 
 
 ### Skills : <br/>
