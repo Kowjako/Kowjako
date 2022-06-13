@@ -1,10 +1,12 @@
 ### Hi there, I'm Wlodzimierz Kowjako @maybedot👋
-
-
 - 🏫 I’m currently studying on: **Wrocław University of Science and Technology**
 - 🌱 I’m currently learning : **Technical informatics**
 - 📫 How to reach me: [Instagram](https://www.instagram.com/wlodzimierzyk/), [Telegram](https://t.me/maybedot)
 - 🏀 Fun fact: **I mad about basketball**
+
+### My working history <br/>
+1️⃣ 01.2021 - 01.2022 → Comarch S.A. ERP 4.0  
+2️⃣ 01.2022 - current → Motorola Solutions
 
 ### My statistics : <br/>
 
@@ -12,6 +14,11 @@
 
 
 ### Skills : <br/>
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+🩸 **C#/.NET**  
+🩸 **ADO.NET / Entity Framework / Dapper**  
+🩸 **WPF / Windows Forms**  
+🩸 **WCF / ASP.NET Core Web API**  
+🩸 **Transact - SQL**  
+🩸 **xUnit + Moq**  
+🩸 **Git / TFS**  
+🩸 **Design Patterns / SOLID / GRASP**  
