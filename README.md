@@ -5,8 +5,8 @@
 - 🏀 Fun fact: **I mad about basketball**
 
 ### My working history <br/>
-1️⃣ 01.2021 - 01.2022 → Comarch S.A. ERP 4.0  
-2️⃣ 01.2022 - current → Motorola Solutions
+1️⃣ 07.2021 - 06.2022 → Comarch S.A. ERP 4.0  
+2️⃣ 07.2022 - current → Motorola Solutions
 
 ### My statistics : <br/>
 
