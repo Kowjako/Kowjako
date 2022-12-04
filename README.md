@@ -5,7 +5,7 @@
 - 🏀 Fun fact: **I mad about basketball**
 
 ### My working history <br/>
-1️⃣ 07.2021 - 06.2022 → Comarch S.A. ERP 4.0  
+1️⃣ 07.2021 - 06.2022 → Comarch ERP  
 2️⃣ 07.2022 - current → Motorola Solutions
 
 ### My statistics : <br/>
@@ -19,6 +19,9 @@
 🩸 **WPF / Windows Forms**  
 🩸 **WCF / ASP.NET Core Web API**  
 🩸 **Transact - SQL**  
-🩸 **xUnit + Moq**  
+🩸 **xUnit / MSTest + Moq**  
 🩸 **Git / TFS**  
 🩸 **Design Patterns / SOLID / GRASP**  
+🩸 **HTML 5 / CSS 3 / Bootstrap 5**  
+🩸 **Typescript**  
+🩸 **Angular 14**  
