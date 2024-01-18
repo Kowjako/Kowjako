@@ -5,8 +5,9 @@
 - 🏀 Fun fact: **I mad about basketball**
 
 ### My working history:  
-✅ 07.2021 - 06.2022 → **Comarch (ERP solutions)**   
-✅ 07.2022 - current → **Motorola Solutions  (Public Safety)**
+✅ **Comarch (ERP solutions)**   
+✅ **Credit Suisse (Invoicing&Banking)***  
+✅ **Motorola Solutions  (Public Safety)**
 
 ### My statistics:
 ![Metrics](https://metrics.lecoq.io/Kowjako?template=classic&config.timezone=Europe%2FAmsterdam&config.animated=true)
