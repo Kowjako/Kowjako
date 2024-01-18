@@ -6,7 +6,7 @@
 
 ### My working history:  
 ✅ **Comarch (ERP solutions)**   
-✅ **Credit Suisse (Invoicing&Banking)***  
+✅ **Credit Suisse (Invoicing&Banking)**  
 ✅ **Motorola Solutions  (Public Safety)**
 
 ### My statistics:
