@@ -25,6 +25,9 @@
 🩸 **Typescript**  
 🩸 **Angular 16**   
 🩸 **NgRx / NgXs / RxJS**  
-🩸 **RabbitMQ / Azure Service Bus**  
+🩸 **RabbitMQ / Service Bus**  
 🩸 **MongoDB, Redis**  
-🩸 **Docker / Powershell** 
+🩸 **Docker / Powershell**   
+🩸 **Azure**  
+🩸 **GraphQL**  
+🩸 **Quartz.NET / Hangfire**
